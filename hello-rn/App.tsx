@@ -9,6 +9,7 @@ export default function App() {
       <Text>Olá, mundo!</Text>
       <StatusBar style="auto" />
     </View>
+    
   );
 }
 
